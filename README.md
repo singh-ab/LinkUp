@@ -13,9 +13,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## 🚨 Tutorial
-
-
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -69,6 +66,7 @@ Make sure you have the following installed on your machine:
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
+- [yarn](https://yarnpkg.com/) (Another alternative package manager)
 
 
 
@@ -105,4 +103,9 @@ Replace the placeholder values with your actual Clerk & getstream credentials. Y
 
 ```bash
 npm run dev
+```
+or:
+
+```bash
+yarn run dev
 ```
