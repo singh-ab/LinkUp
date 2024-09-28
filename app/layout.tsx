@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   title: "LinkUp",
   description: "Video calling App",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/icons/video-chat.png",
   },
 };
 
@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/aps logo compressed.png",
+            logoImageUrl: "/icons/video-chat.png",
           },
           variables: {
             colorText: "#fff",
